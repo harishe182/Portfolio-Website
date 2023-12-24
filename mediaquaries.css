@@ -31,10 +31,8 @@
         margin: 0 5%;
     }
     .section__pic-container {
-        height: 400px;
-        width: 400px;
-        margin: 0 auto;
-        margin-bottom: 2rem;    }
+       margin: 0 auto 2rem;
+  }
     .about-containers {
         margin-top: 0;
     }
